@@ -1,1 +1,1 @@
-A scientific calculator built with python tkinter
+A scientific calculator built with Python Tkinter
